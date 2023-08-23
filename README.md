@@ -1,7 +1,112 @@
 
 <h1 align="center">👋 Ciao,world!</h1>
 
-<p>I am satya, a 24 yo developer mainly interested in Rpa Automation and Ansible Development and love to work with new tools.</p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=Satya-22&style=flat-square&color=blue" alt=""/>
+
+---
+
+### :man_technologist: About Me :
+
+I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: I’m currently pursuing my Master's degree in Computer Science.
+
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satyayoganandaddala/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ansible/ansible-plain.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-plain.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>
+
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Satya-22&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+# Projects:
+[JPaint Application](#se450)
+
+[Object-Oriented Enterprise Application](#se452)
+
+
+
+<a name="se450"></a> 
+
+## JPaint Application
+
+The Features of the JPaint Application are:
+
+- Draws Rectangle, Ellipse, and Triangle shapes on the canvas
+- Draws the shapes with both primary and secondary colors
+- Draws the shapes with shading types of either, filled in, filled in and outline, or outline
+- Able to select shapes and then perform actions like move, copy, paste, and delete
+- Able to perform Group functionality where it can group the selected shapes and add groups on top of the existing groups to form a new group and can also form multiple independent groups.
+- Able to perform Select, Move, Copy, Paste, and Delete functionalities on selected groups.
+- Able to replicate all the actions on the pasted shapes as well in both grouped and ungrouped shapes.
+- Able to UnGroup the Selected Groups.
+- Able to perform Undo and Redo actions for every action performed on the shape
+
+
+# Link to GitHub repo
+<a href="https://github.com/Satya-22/SE450-Group-18-Project-Repo.git" target="_blank">JPaint Application</a>
+
+
+<a name="se452"></a> 
+
+## Object-Oriented Enterprise Application
+
+## Description
+
+The purpose of the tool is to aid users in tracking one or more projects by task and breaking down complex projects into different levels of subtasks.
+
+## Key Features
+
+* Create and manage workspaces, lists, folders, statuses and tasks
+* Track tasks through customizable statuses (e.g. To-do, In progress)
+* Adding dependencies to the tasks (e.g. assignees, deadlines, notes)
+* List view
+* User authentication and authorization
+* Session management for users
+
 
 
 <!---
