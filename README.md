@@ -54,6 +54,8 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
 
 [Object-Oriented Enterprise Application](#se452)
 
+[Civic Advocacy App](#csc472)
+
 
 ###
 
@@ -95,6 +97,18 @@ The purpose of the tool is to aid users in tracking one or more projects by task
 * List view
 * User authentication and authorization
 * Session management for users
+
+<a name="csc472></a>
+
+## Civic Advocacy App
+
+**Description:**
+- **Technology:** Java, Android Studio, Volley Library
+- **Overview:** Developed an intuitive Android app to provide seamless access to US Representatives' data based on location and party affiliation.
+- **Features:**
+  - Retrieval of data from an API.
+  - User-friendly interface for displaying representative information.
+  - Followed software development best practices for robust app performance.
 
 
 
