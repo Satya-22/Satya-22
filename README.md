@@ -14,8 +14,6 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Satya-22&style=flat-square&color=blue" alt=""/>
-
 ---
 
 ### :man_technologist: About Me :
