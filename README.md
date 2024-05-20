@@ -15,8 +15,6 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/satyayoganandaddala/).
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyayoganandaddala/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
