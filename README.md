@@ -26,6 +26,7 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
 
 
 - :mailbox:How to reach me: [![Linkedin Badge]]([(https://img.shields.io/badge/LinkedIn-like?style=flat&logoColor=blue&color=blue)])(https://www.linkedin.com/in/satyayoganandaddala/)
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-like?style=flat&logo=LinkedIn&logoColor=blue&color=blue)](https://www.linkedin.com/in/satyayoganandaddala/)
 
 ---
 
