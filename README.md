@@ -52,10 +52,11 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
 # Projects:
 [JPaint Application](#se450)
 
-[Object-Oriented Enterprise Application](#se452)
+[Work Management System](#se452)
 
 [Civic Advocacy App](#csc472)
 
+[Todo ]
 
 ###
 
@@ -83,7 +84,7 @@ The Features of the JPaint Application are:
 <a name="se452"></a> 
 ##
 
-## Object-Oriented Enterprise Application
+## Work Management System
 
 ## Description
 
@@ -99,7 +100,7 @@ The purpose of the tool is to aid users in tracking one or more projects by task
 * Session management for users
   
 # Link to GitHub repo
-<a href="https://github.com/Khant-T/SE452-Group-Project.git" target="_blank">JPaint Application</a>
+<a href="https://github.com/Khant-T/SE452-Group-Project.git" target="_blank">Work Management System</a>
 
 
 
