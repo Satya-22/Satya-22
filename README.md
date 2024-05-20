@@ -78,6 +78,7 @@ The Features of the JPaint Application are:
 
 
 <a name="se452"></a> 
+##
 
 ## Object-Oriented Enterprise Application
 
