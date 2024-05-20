@@ -5,13 +5,15 @@
 
 I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m currently pursuing my Master's degree in Computer Science.
 - 🔭 Recently completed my Master's degree in Computer Science.
-🌱 My heart beats for automation, software development, and the endless quest for knowledge.
-👨‍💻 I specialize in crafting robust RPA solutions and crafting software applications using a myriad of technologies.
-💡 I thrive on innovative projects and love contributing to open-source communities.
-🚀 During my downtime, I'm all about exploring new technologies, tinkering with personal projects, and honing my coding skills.
+- 🌱 My heart beats for automation, software development, and the endless quest for knowledge.
+- 👨‍💻 I specialize in crafting robust RPA solutions and crafting software applications using a myriad of technologies.
+- 💡 I thrive on innovative projects and love contributing to open-source communities.
+- 🚀 During my downtime, I'm all about exploring new technologies, tinkering with personal projects, and honing my coding skills.
 
+## 📫 How to reach me:
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/satyayoganandaddala/).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyayoganandaddala/)
 
