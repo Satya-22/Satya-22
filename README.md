@@ -46,6 +46,7 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
 <a name="csc436"></a>
 
 ## React Todo App
+[![Repository](https://img.shields.io/badge/Repository-Visit-blue?style=flat&logo=github)](https://github.com/Satya-22/todoApp.git)
 
 **Description:**
 - **Technology:** React, JavaScript, HTML, CSS
