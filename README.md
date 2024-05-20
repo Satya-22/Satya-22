@@ -1,9 +1,6 @@
 
 <h1 align="center">👋 Ciao,world!</h1>
 
-
----
-
 ### :man_technologist: About Me :
 
 I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -44,7 +41,7 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
 
 [React Todo App](#csc436)
 
-###
+---
 
 <a name="csc436"></a>
 
