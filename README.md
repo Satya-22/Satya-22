@@ -6,6 +6,11 @@
 I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m currently pursuing my Master's degree in Computer Science.
+- 🔭 Recently completed my Master's degree in Computer Science.
+🌱 My heart beats for automation, software development, and the endless quest for knowledge.
+👨‍💻 I specialize in crafting robust RPA solutions and crafting software applications using a myriad of technologies.
+💡 I thrive on innovative projects and love contributing to open-source communities.
+🚀 During my downtime, I'm all about exploring new technologies, tinkering with personal projects, and honing my coding skills.
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyayoganandaddala/)
@@ -56,12 +61,13 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
   - Mark tasks as complete or incomplete.
   - Filter tasks based on their completion status.
   - Responsive design for seamless use on various devices.
-- **Link to GitHub Repo:** <a href="https://github.com/Satya-22/todoApp.git" target="_blank">React Todo App</a>
+
 
 
 <a name="se450"></a> 
 
 ## JPaint Application
+[![Repository](https://img.shields.io/badge/Repository-Visit-blue?style=flat&logo=github)](https://github.com/Satya-22/SE450-Group-18-Project-Repo.git)
 
 **Description:**
 - **Technology:** Java 8, AWT, Swing
@@ -70,13 +76,13 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
   - Various shapes and designs to emulate an actual paint application.
   - Scalable solution with extensive options, including CRUD operations.
   - Implemented SOLID principles and industry-standard design patterns for an optimized, maintainable, and scalable codebase.
-- **Link to GitHub Repo:** <a href="https://github.com/Satya-22/SE450-Group-18-Project-Repo.git" target="_blank">JPaint Application</a>
 
  
 <a name="se452"></a> 
 ##
 
 ## Work Management System
+[![Repository](https://img.shields.io/badge/Repository-Visit-blue?style=flat&logo=github)](https://github.com/Khant-T/SE452-Group-Project.git)
 
 **Description:**
 - **Technology:** Spring Boot, Spring Framework, Docker, CI/CD
@@ -84,13 +90,13 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
 - **Features:**
   - Comprehensive work management records.
   - Seamless integration with CI/CD pipelines for continuous development and deployment.
-  - Docker integration for efficient application deployment and version control.
-- **Link to GitHub Repo:** <a href="https://github.com/Khant-T/SE452-Group-Project.git" target="_blank">Work Management System</a>    
+  - Docker integration for efficient application deployment and version control.   
 
 <a name="csc472"></a>
 ##
 
 ## Civic Advocacy App
+[![Repository](https://img.shields.io/badge/Repository-Visit-blue?style=flat&logo=github)](https://github.com/Satya-22/CivicAdvocacy.git)
 
 **Description:**
 - **Technology:** Java, Android Studio, Volley Library
@@ -99,7 +105,6 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
   - Retrieval of data from an API.
   - User-friendly interface for displaying representative information.
   - Followed software development best practices for robust app performance.
-- **Link to GitHub Repo:** <a href="https://github.com/Satya-22/CivicAdvocacy.git" target="_blank">Civic Advocacy App</a>
 
 <!---
 Satya-22/Satya-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
