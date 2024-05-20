@@ -72,8 +72,6 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
   - Responsive design for seamless use on various devices.
 - **Link to GitHub Repo:** <a href="https://github.com/Satya-22/todoApp.git" target="_blank">React Todo App</a>
 
- # Link to GitHub repo
-
 
 <a name="se450"></a> 
 
@@ -86,11 +84,9 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
   - Various shapes and designs to emulate an actual paint application.
   - Scalable solution with extensive options, including CRUD operations.
   - Implemented SOLID principles and industry-standard design patterns for an optimized, maintainable, and scalable codebase.
+- **Link to GitHub Repo:** <a href="https://github.com/Satya-22/SE450-Group-18-Project-Repo.git" target="_blank">JPaint Application</a>
 
-# Link to GitHub repo
-<a href="https://github.com/Satya-22/SE450-Group-18-Project-Repo.git" target="_blank">JPaint Application</a>
-
-
+ 
 <a name="se452"></a> 
 ##
 
@@ -103,11 +99,7 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
   - Comprehensive work management records.
   - Seamless integration with CI/CD pipelines for continuous development and deployment.
   - Docker integration for efficient application deployment and version control.
-  
-# Link to GitHub repo
-<a href="https://github.com/Khant-T/SE452-Group-Project.git" target="_blank">Work Management System</a>
-
-
+- **Link to GitHub Repo:** <a href="https://github.com/Khant-T/SE452-Group-Project.git" target="_blank">Work Management System</a>    
 
 <a name="csc472"></a>
 ##
@@ -121,10 +113,7 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
   - Retrieval of data from an API.
   - User-friendly interface for displaying representative information.
   - Followed software development best practices for robust app performance.
-
-# Link to GitHub repo
-<a href="https://github.com/Satya-22/CivicAdvocacy.git" target="_blank">Civic Advocacy App</a>
-
+- **Link to GitHub Repo:** <a href="https://github.com/Satya-22/CivicAdvocacy.git" target="_blank">Civic Advocacy App</a>
 
 <!---
 Satya-22/Satya-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
