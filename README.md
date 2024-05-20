@@ -70,9 +70,10 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
   - Mark tasks as complete or incomplete.
   - Filter tasks based on their completion status.
   - Responsive design for seamless use on various devices.
+- **Link to GitHub Repo:** <a href="https://github.com/Satya-22/todoApp.git" target="_blank">React Todo App</a>
 
  # Link to GitHub repo
-<a href="https://github.com/Satya-22/todoApp.git" target="_blank">React Todo App</a>
+
 
 <a name="se450"></a> 
 
