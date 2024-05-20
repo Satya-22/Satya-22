@@ -97,8 +97,13 @@ The purpose of the tool is to aid users in tracking one or more projects by task
 * List view
 * User authentication and authorization
 * Session management for users
+  
+# Link to GitHub repo
+<a href="https://github.com/Khant-T/SE452-Group-Project.git" target="_blank">JPaint Application</a>
 
-<a name="csc472></a>
+
+
+<a name="csc472"></a>
 
 ## Civic Advocacy App
 
@@ -110,6 +115,8 @@ The purpose of the tool is to aid users in tracking one or more projects by task
   - User-friendly interface for displaying representative information.
   - Followed software development best practices for robust app performance.
 
+# Link to GitHub repo
+<a href="https://github.com/Satya-22/CivicAdvocacy.git" target="_blank">Civic Advocacy App</a>
 
 
 <!---
