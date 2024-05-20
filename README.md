@@ -62,24 +62,29 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
 
 ## React Todo App
 
+**Description:**
+- **Technology:** React, JavaScript, HTML, CSS
+- **Overview:** Created a Todo application using React to help users manage their tasks effectively.
+- **Features:**
+  - Add, edit, and delete tasks.
+  - Mark tasks as complete or incomplete.
+  - Filter tasks based on their completion status.
+  - Responsive design for seamless use on various devices.
 
+ # Link to GitHub repo
+<a href="https://github.com/Satya-22/todoApp.git" target="_blank">React Todo App</a>
 
 <a name="se450"></a> 
 
 ## JPaint Application
 
-The Features of the JPaint Application are:
-
-- Draws Rectangle, Ellipse, and Triangle shapes on the canvas
-- Draws the shapes with both primary and secondary colors
-- Draws the shapes with shading types of either, filled in, filled in and outline, or outline
-- Able to select shapes and then perform actions like move, copy, paste, and delete
-- Able to perform Group functionality where it can group the selected shapes and add groups on top of the existing groups to form a new group and can also form multiple independent groups.
-- Able to perform Select, Move, Copy, Paste, and Delete functionalities on selected groups.
-- Able to replicate all the actions on the pasted shapes as well in both grouped and ungrouped shapes.
-- Able to UnGroup the Selected Groups.
-- Able to perform Undo and Redo actions for every action performed on the shape
-
+**Description:**
+- **Technology:** Java 8, AWT, Swing
+- **Overview:** Engineered a robust Paint application with a focus on object-oriented design principles to deliver a user-friendly interface and high-quality software.
+- **Features:** 
+  - Various shapes and designs to emulate an actual paint application.
+  - Scalable solution with extensive options, including CRUD operations.
+  - Implemented SOLID principles and industry-standard design patterns for an optimized, maintainable, and scalable codebase.
 
 # Link to GitHub repo
 <a href="https://github.com/Satya-22/SE450-Group-18-Project-Repo.git" target="_blank">JPaint Application</a>
@@ -90,18 +95,13 @@ The Features of the JPaint Application are:
 
 ## Work Management System
 
-## Description
-
-The purpose of the tool is to aid users in tracking one or more projects by task and breaking down complex projects into different levels of subtasks.
-
-## Key Features
-
-* Create and manage workspaces, lists, folders, statuses and tasks
-* Track tasks through customizable statuses (e.g. To-do, In progress)
-* Adding dependencies to the tasks (e.g. assignees, deadlines, notes)
-* List view
-* User authentication and authorization
-* Session management for users
+**Description:**
+- **Technology:** Spring Boot, Spring Framework, Docker, CI/CD
+- **Overview:** Developed a Spring Boot application to manage work records, implementing CI/CD pipelines and integrating Docker for streamlined deployment.
+- **Features:**
+  - Comprehensive work management records.
+  - Seamless integration with CI/CD pipelines for continuous development and deployment.
+  - Docker integration for efficient application deployment and version control.
   
 # Link to GitHub repo
 <a href="https://github.com/Khant-T/SE452-Group-Project.git" target="_blank">Work Management System</a>
