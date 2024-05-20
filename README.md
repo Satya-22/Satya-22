@@ -25,7 +25,8 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
 - :telescope: I’m currently pursuing my Master's degree in Computer Science.
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satyayoganandaddala/)
+- :mailbox:How to reach me: [![Linkedin Badge]([)](https://img.shields.io/badge/LinkedIn-like?style=flat&logoColor=blue&color=blue
+)](https://www.linkedin.com/in/satyayoganandaddala/)
 
 ---
 
