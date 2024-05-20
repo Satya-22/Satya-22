@@ -104,6 +104,7 @@ The purpose of the tool is to aid users in tracking one or more projects by task
 
 
 <a name="csc472"></a>
+##
 
 ## Civic Advocacy App
 
