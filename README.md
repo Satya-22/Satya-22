@@ -1,5 +1,5 @@
 
-<h1 align="center"> I am Satya Yoganand Addala 👋 !</h1>
+<h1 align="center"> Hi, I'm Satya Yoganand Addala 👋 !</h1>
 
 ### :man_technologist: About Me :
 
