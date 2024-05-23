@@ -18,9 +18,6 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
 
 - 🎯 Portfolio website: [Portfolio](https://satya-22.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-[linkedin]: https://www.linkedin.com/in/satyayoganandaddala  
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
