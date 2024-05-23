@@ -11,10 +11,9 @@ I am an RPA Application Developer <img src="https://media.giphy.com/media/WUlplc
 - 💡 I thrive on innovative projects and love contributing to open-source communities.
 - 🚀 During my downtime, I'm all about exploring new technologies, tinkering with personal projects, and honing my coding skills.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/satyayoganandaddala/).
 
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
-[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-satyayoganand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satyayoganandaddala/)](https://www.linkedin.com/in/satyayoganandaddala/)
+[![Gmail Badge](https://img.shields.io/badge/-satyaadd22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satyaadd22@gmail.com)](mailto:satyaadd22@gmail.com) 
 
 
 - 🎯 Portfolio website: [Portfolio](https://satya-22.github.io/)
